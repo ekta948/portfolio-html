@@ -1,0 +1,51 @@
+.image{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+    
+}
+#red{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+    box-sizing: border-box;
+   
+}
+#yellow{
+
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+    box-sizing: border-box;
+   
+    
+}
+#blue{
+    color: blue;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: larger;
+     padding: 20px;
+    border: 10px;
+    border-color: black;
+    
+}
+#green{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+   
+}
+*{
+    margin-left: 200px;
+}
